@@ -15,6 +15,8 @@ This project aims to:
 - **TOPSIS GT**: An extension of the classic TOPSIS method, incorporating group decision-making and fuzzy logic.
 - **RSM (Reference Set Method)**: Identifies alternatives closest to reference points representing optimal criteria combinations.
 - **MREF (Multi-Criteria Reference Point Approach)**: Evaluates alternatives using multiple reference points for a comprehensive analysis.
+- **VIKOR**: A compromise-ranking method that balances maximizing group utility and minimizing individual regret, ideal for resolving conflicts between criteria.
+- **UTA STAR**: A utility-based method that uses additive value functions to rank alternatives, focusing on maximizing overall utility based on decision-maker preferences.
 
 ### **Graphical User Interface (GUI)**
 - **Data Import**: Supports importing data from Excel files.
@@ -46,11 +48,5 @@ The project identifies the most suitable cloud platforms for automated greenhous
 ## Future Improvements
 - Expanding the dataset with more cloud platforms.
 - Enhancing the GUI with interactive visualizations.
-- Implementing additional decision-making methods.
 
-## License
-This project is licensed under the MIT License.
-
----
-This README provides a structured and professional overview of the project. Let me know if you'd like any additional refinements! 🚀
 
